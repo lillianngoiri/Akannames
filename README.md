@@ -1,7 +1,7 @@
 ## Project Name
 - AKAN NAMES
 ## Project Description 
-- The Akan project is code by Lillian Ngoiri. The project consists of a form that one is expected to fill in starting with the date of birth, followed by the month and then the year of birth.and my active links.
+- The project consists of a form that one is expected to fill in starting with the date of birth, followed by the month and then the year of birth. He or she is expected to submit the form and an alert message will appear indicating the akan name according to the information entered and my active links.
 ## Authors Name.
 - LILLIAN NGOIRI
 ## Setup Instruction
