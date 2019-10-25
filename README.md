@@ -14,8 +14,13 @@
 - CSS.
 - JAVASCRIPT.
 ## BDD
+- 
+## Contact information
+- 0702004661
+- Email:lillianngoiri67@gmail.com
 
 
+## Lincese
 
 The MIT License
 
