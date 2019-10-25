@@ -1,0 +1,11 @@
+body{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://bit.ly/32N2Ptk");
+}
+.forms{
+    text-align: center;
+    font-weight: bold;
+}
