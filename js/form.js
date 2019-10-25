@@ -6,11 +6,13 @@ var year = document.getElementById("year").value;
 var YY = parseInt(year);
 
 var maleNames = [
-     "Sunday: Kwasi","Monday:Kwadwo","Tuesday:Kwabena","Wednesday:Kwaku","Thursday:Yaw","Friday:Kofi","Saturday: Kwame"];
+     "Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
 
 
 var femaleNames = [
-     "Sunday:Akosua", "Monday:Adwoa","Tuesday:Abenaa","Wednesday:Akua","Thursday:Yaa","Friday:Afua","Saturday:Ama"];
+     "Akosua", "Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
+
+var day = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) % 7
 
 
 
