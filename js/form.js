@@ -9,17 +9,21 @@ function gh() {
     var CC = parseInt(centuary);
 
     var maleNames = [
-        "Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+         "Kwame","Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi"];
 
         
     var femaleNames = [
-        "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+        "Ama", "Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua"];
 
-    var day = ( ( (CC/4) - (2 * CC - 1)) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) %7;
+    var day = parseInt(((CC / 4) - 2 * CC - 1) + ((5 * YY / 4)) + ((26 * (MM + 1) / 10)) + DD) % 7;
      day = Math.round(day);
-    var dob = new Date(CC+""+YY+"-"+MM+"-"+DD);
-      day = dob.getDay();
 
+     if (MM < 1 || MM > 12 || MM == 2 && DD > 29) {
+        alert("INVALID MONTH!!!");
+        }
+        else if (DD < 1 || DD > 31) {
+        alert("INVALID DAY!!!");
+        }
 
     if (document.getElementById("male").checked) {
         alert("Your Akan name is " + maleNames[day]);
