@@ -19,8 +19,9 @@ h2 {
     font-size: 20px;
 }
 #box {
-    width: 300px;
+    width: 100%;
     border: 15px solid wheat;
-    padding: 50px;
+    padding: 70px;
     margin: 20px;
+    text-align: center;
 }
