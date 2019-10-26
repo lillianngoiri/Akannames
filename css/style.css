@@ -26,5 +26,6 @@ h2 {
     text-align: center;
 }
 #click {
-    background-color: lightblue;
+    background-color: red;
+    float: right;
 }
