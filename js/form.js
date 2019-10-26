@@ -19,14 +19,14 @@ function gh() {
      day = Math.round(day);
 
      if (MM < 1 || MM > 12 || MM == 2 && DD > 29) {
-        alert("INVALID MONTH!!!");
+            alert("INVALID MONTH!!!");
         }
         else if (DD < 1 || DD > 31) {
-        alert("INVALID DAY!!!");
+            alert("INVALID DAY!!!");
         }
 
     if (document.getElementById("male").checked) {
-        alert("Your Akan name is " + maleNames[day]);
+         alert("Your Akan name is " + maleNames[day]);
     }
     else if (document.getElementById("female").checked) {
         alert("Your Akan name is " + femaleNames[day]);

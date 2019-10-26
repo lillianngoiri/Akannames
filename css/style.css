@@ -18,3 +18,9 @@ h1 {
 h2 {
     font-size: 20px;
 }
+#box {
+    width: 300px;
+    border: 15px solid wheat;
+    padding: 50px;
+    margin: 20px;
+}
