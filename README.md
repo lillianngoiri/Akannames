@@ -14,7 +14,9 @@
 - CSS.
 - JAVASCRIPT.
 ## BDD
-- 
+![BDD screenshot](images/screenshot.png)
+
+Screenshot from 2019-10-27 15-55-18.png
 ## Contact information
 - 0702004661
 - Email:lillianngoiri67@gmail.com
