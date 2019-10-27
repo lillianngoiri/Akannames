@@ -15,8 +15,7 @@
 - JAVASCRIPT.
 ## BDD
 ![BDD screenshot](images/screenshot.png)
-
-Screenshot from 2019-10-27 15-55-18.png
+- This is a screenshot of a landing page of a form. The form is called Akan Name. It contains a brief decription of what akan name is, the origin of the Akan names and how and who is given the name. The form contains an input box that one is required to enter their day of birth, the month, centuary and the year of birth. After filling in the form, one is required to submitt the form by clicking on the red button written submmit at the bottom of the form on the right. After submiting the form an alert message will pop out at the top indicating someone's Akan name. The form also have a selection part that one is required to select their gender which could be female or male.
 ## Contact information
 - 0702004661
 - Email:lillianngoiri67@gmail.com
