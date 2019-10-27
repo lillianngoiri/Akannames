@@ -5,7 +5,7 @@
 ## Authors Name.
 - LILLIAN NGOIRI
 ## Setup Instruction
-- You need to have a github account so that you can deploy the p[roject and get a live link.
+- You need to have a github account so that you can deploy the project and get a live link.
 - You need to have have data connection so that the project can function well.
 ## Github link 
 - The project is live on github pages at : https://lillianngoiri.github.io/Akannames/
