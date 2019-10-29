@@ -19,10 +19,10 @@ function gh() {
      day = Math.round(day);
 
 
-      if (MM !=="" || MM < 1 || MM > 12 || MM == 2 && DD > 29) {
+      if (MM < 1 || MM > 12 || MM == 2 && DD > 29) {
             alert("INVALID MONTH!!!");
         }
-      if (DD !=="" || DD < 1 || DD > 31) {
+      else if (DD < 1 || DD > 31) {
             alert("INVALID DAY!!!");
         }
 
